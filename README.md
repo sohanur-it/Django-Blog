@@ -97,18 +97,3 @@ python manage.py runserver
 </div>
 <a href="http://127.0.0.1:8000/"><ul><li>now goto http://127.0.0.1:8000/</li></ul> </a>
 
-
-
-<h2>Scrrenshots : </h2>
-<br>
-<img src='https://github.com/sohanur-it/Django-Blog/blob/master/src/screenshot/django-blog.png'>
-<br><br>
-
-<br>
-<img src='https://github.com/sohanur-it/Django-Blog/blob/master/src/screenshot/register.png'>
-<br><br>
-
-
-<br>
-<img src='https://github.com/sohanur-it/Django-Blog/blob/master/src/screenshot/login.png'>
-<br><br>
