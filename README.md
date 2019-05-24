@@ -1,6 +1,6 @@
 # Django-Blog Site 
 <h4>
-Create A SuperUser Account Before You Interact With User, Account, Model and Admin Privilages
+Create a superUser account before interacting with User, Account, Model and Admin Privilages
 </h4>
 <h2>
 Main Features :
