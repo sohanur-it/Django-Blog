@@ -6,7 +6,7 @@ Create a superUser account before interacting with User, Account, Model and Admi
 Main Features :
 </h2>
 <ul>
-<li>Blog Page WIth Backend Dashboard</li>
+<li>Blog Page Featured With Backend Dashboard</li>
 <li>Pagination</li>
 <li>Registration Page</li>
 <li>Frondend and Backend Validation</li>
@@ -98,9 +98,22 @@ python manage.py runserver
 <a href="http://127.0.0.1:8000/"><ul><li>now goto http://127.0.0.1:8000/</li></ul> </a>
 
 <h2>ScreenShots</h2>
+
+<br>
+<img src="https://github.com/sohanur-it/Django-Blog/blob/master/src/screenshot/registration.png"><br>
+
+<br>
+<img src="https://github.com/sohanur-it/Django-Blog/blob/master/src/screenshot/login.png"><br>
+
 <br>
 <img src="https://github.com/sohanur-it/Django-Blog/blob/master/src/screenshot/home.png"><br>
 
 <br>
 <img src="https://github.com/sohanur-it/Django-Blog/blob/master/src/screenshot/detail_view.png"><br>
+
+<br>
+<img src="https://github.com/sohanur-it/Django-Blog/blob/master/src/screenshot/profile.png"><br>
+
+
+
 
