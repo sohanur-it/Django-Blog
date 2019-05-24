@@ -109,6 +109,7 @@ python manage.py runserver
 <img src="https://github.com/sohanur-it/Django-Blog/blob/master/src/screenshot/login.png"><br>
 
  <li>Home Page</li>
+ 
 <br>
 <img src="https://github.com/sohanur-it/Django-Blog/blob/master/src/screenshot/home.png"><br>
 
