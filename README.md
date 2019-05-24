@@ -101,24 +101,18 @@ python manage.py runserver
 
 <ol>
   <li>Registration Page</li>
-<br>
 <img src="https://github.com/sohanur-it/Django-Blog/blob/master/src/screenshot/registration.png"><br>
  
  <li>Login Page</li>
-<br>
 <img src="https://github.com/sohanur-it/Django-Blog/blob/master/src/screenshot/login.png"><br>
 
  <li>Home Page</li>
- 
-<br>
 <img src="https://github.com/sohanur-it/Django-Blog/blob/master/src/screenshot/home.png"><br>
 
  <li>Detail View of Post</li>
-<br>
 <img src="https://github.com/sohanur-it/Django-Blog/blob/master/src/screenshot/detail_view.png"><br>
  
  <li>Profile Update  Page</li>
-<br>
 <img src="https://github.com/sohanur-it/Django-Blog/blob/master/src/screenshot/profile.png"><br>
 
 </ol>
