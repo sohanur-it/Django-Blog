@@ -95,7 +95,7 @@ python manage.py migrate
 <div>
 python manage.py runserver
 </div>
-<a href="http://127.0.0.1:8000/"><ul><li>now goto http://127.0.0.1:8000/</li></ul> </a>
+Now go to<a href="http://127.0.0.1:8000/"><ul><li> http://127.0.0.1:8000/</li></ul> </a>
 
 <h2>ScreenShots</h2>
 
