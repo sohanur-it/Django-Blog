@@ -101,19 +101,19 @@ python manage.py runserver
 
 <ol>
   <li>Registration Page</li>
-<img src="https://github.com/sohanur-it/Django-Blog/blob/master/src/screenshot/registration.png"><br>
+<img src="https://github.com/sohanur-it/Django-Blog/blob/master/src/screenshot/registration.png"><br><br>
  
  <li>Login Page</li>
-<img src="https://github.com/sohanur-it/Django-Blog/blob/master/src/screenshot/login.png"><br>
+<img src="https://github.com/sohanur-it/Django-Blog/blob/master/src/screenshot/login.png"><br><br>
 
  <li>Home Page</li>
-<img src="https://github.com/sohanur-it/Django-Blog/blob/master/src/screenshot/home.png"><br>
+<img src="https://github.com/sohanur-it/Django-Blog/blob/master/src/screenshot/home.png"><br><br>
 
  <li>Detail View of Post</li>
-<img src="https://github.com/sohanur-it/Django-Blog/blob/master/src/screenshot/detail_view.png"><br>
+<img src="https://github.com/sohanur-it/Django-Blog/blob/master/src/screenshot/detail_view.png"><br><br>
  
  <li>Profile Update  Page</li>
-<img src="https://github.com/sohanur-it/Django-Blog/blob/master/src/screenshot/profile.png"><br>
+<img src="https://github.com/sohanur-it/Django-Blog/blob/master/src/screenshot/profile.png"><br><br>
 
 </ol>
 
