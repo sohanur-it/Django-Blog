@@ -79,7 +79,7 @@ git clone https://github.com/sohanur-it/Django-Blog.git
 <h2>Install requirements.txt
 </h2>
 <div>
-python -m pip install -r requirements.txt
+python -m pip install -r requirement.txt
 </div>
 <h2>
 Now goto src/ directory and create db models.
